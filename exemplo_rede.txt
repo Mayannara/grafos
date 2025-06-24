@@ -1,0 +1,9 @@
+Rede de Computadores - Latência em ms
+# Formato: servidor_origem,servidor_destino,latencia_ms
+ServerA,ServerB,10
+ServerA,ServerC,25
+ServerB,ServerD,15
+ServerC,ServerD,8
+ServerD,ServerE,12
+ServerB,ServerE,30
+ServerC,ServerE,20

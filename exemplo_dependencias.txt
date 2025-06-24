@@ -1,0 +1,8 @@
+Sistema de Dependências - Projeto de Software
+# Formato: modulo_dependente,modulo_requerido,prioridade
+Frontend,Backend,1
+Backend,Database,1
+Frontend,UI_Library,1
+Backend,API_Framework,1
+Database,Driver,1
+UI_Library,CSS_Framework,1

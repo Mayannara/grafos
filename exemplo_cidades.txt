@@ -1,0 +1,9 @@
+Rede de Transporte - Cidades do Brasil
+# Formato: origem,destino,distancia_km
+São Paulo,Rio de Janeiro,430
+São Paulo,Belo Horizonte,586
+Rio de Janeiro,Belo Horizonte,434
+São Paulo,Curitiba,408
+Curitiba,Florianópolis,300
+Belo Horizonte,Brasília,741
+São Paulo,Brasília,1015
