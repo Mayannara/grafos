@@ -54,7 +54,7 @@ public class Vertice<T> {
     }
 
     public void setPathHighlighted(boolean pathHighlighted) {
-        isPathHighlighted = pathHighlighted;
+        this.isPathHighlighted = pathHighlighted;
     }
 
     @Override
