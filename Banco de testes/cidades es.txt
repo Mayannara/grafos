@@ -1,0 +1,15 @@
+Vitoria;350;250;Vila Velha:10;Serra:20;Cariacica:15
+Vila Velha;380;300;Vitoria:10;Guarapari:50
+Serra;350;200;Vitoria:20;Aracruz:60
+Cariacica;320;270;Vitoria:15;Guarapari:40;Viana:20
+Guarapari;400;350;Vila Velha:50;Cariacica:40;Anchieta:30;Iconha:60
+Aracruz;400;100;Serra:60;Linhares:80;Fundao:30
+Linhares;450;150;Aracruz:80;Colatina:70;Sooretama:40;Rio Bananal:50
+Colatina;500;200;Linhares:70;Sao Gabriel da Palha:50;Governador Valadares:150
+Cachoeiro de Itapemirim;420;450;Guarapari:80;Itapemirim:45;Vargem Alta:35;Castelo:40
+Iconha;450;380;Guarapari:60;Anchieta:20;Alfredo Chaves:30
+Anchieta;420;350;Guarapari:30;Iconha:20
+Viana;280;280;Cariacica:20;Domingos Martins:40
+Domingos Martins;250;350;Viana:40;Marechal Floriano:20;Santa Leopoldina:30
+Marechal Floriano;280;380;Domingos Martins:20;Alfredo Chaves:25
+Alfredo Chaves;320;400;Iconha:30;Marechal Floriano:25
